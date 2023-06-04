@@ -1,0 +1,28 @@
+Added Component: Designator=IC?(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DMP3098LSS-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmp3098lss-13/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.diodes.com/assets/Datasheets/ds31265.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMP3098LSS-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DMP3098LSS-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3098LSS-13?qs=oUsD4qhOtFzZjT52aJeXQw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(PowerDI5060-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DMP6050SPS-13"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(PowerDI5060-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DMP6050SPS-13"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VBUS Pin=Q1-1
+Added Pin To Net: NetName=VBUS_FET_GATE Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=+VBUS_PD Pin=Q2-1
+Added Pin To Net: NetName=VBUS_FET_GATE Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Member To Class: ClassName=USB-C Power Delivery Board Member=Component IC? DMP3098LSS-13
+Added Member To Class: ClassName=USB-C Power Delivery Board Member=Component Q1 DMP6050SPS-13
+Added Member To Class: ClassName=USB-C Power Delivery Board Member=Component Q2 DMP6050SPS-13

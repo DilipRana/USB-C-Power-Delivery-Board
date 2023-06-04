@@ -1,0 +1,468 @@
+Added Component: Designator=C1(CAP_0603)
+Added Component: Designator=C2(CAP_0402)
+Added Component: Designator=C3(CAP_0603)
+Added Component: Designator=C4(CAP_0402)
+Added Component: Designator=C5(CAP_0402)
+Added Component: Designator=C6(CAP_0603)
+Added Component: Designator=C7(CAP_0402)
+Added Component: Designator=C8(CAP_0603)
+Added Component: Designator=C9(CAP_0603)
+Added Component: Designator=C10(CAP_0402)
+Added Component: Designator=C11(CAP_0402)
+Added Component: Designator=C12(CAP_0402)
+Added Component: Designator=C13(CAP_0402)
+Added Component: Designator=C14(CAP_0402)
+Added Component: Designator=C15(CAP_0402)
+Added Component: Designator=C16(CAP_0402)
+Added Component: Designator=C17(CAP_0402)
+Added Component: Designator=C18(CAP_0402)
+Added Component: Designator=C19(CAP_0603)
+Added Component: Designator=C20(CAP_0402)
+Added Component: Designator=C21(CAP_0402)
+Added Component: Designator=C22(CAP_0603)
+Added Component: Designator=C23(CAP_0402)
+Added Component: Designator=C24(CAP_0402)
+Added Component: Designator=C25(CAP_0603)
+Added Component: Designator=C26(CAP_0603)
+Added Component: Designator=C27(CAP_0603)
+Added Component: Designator=C28(CAP_0402)
+Added Component: Designator=D1(LED_0402_RED)
+Added Component: Designator=D2(LED_0402_RED)
+Added Component: Designator=IC1(QFP50P1200X1200X160-64N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32F401RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f401rct6/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/DM00086815.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F401RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F401RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F401RCT6?qs=DqCdCwOw4%2F4JITyspz8omA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CON-SOCJ-2155)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CON-SOCJ-2155"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Koren Hroparts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Added Component: Designator=J3(TC2030-FP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2030"; VariantName = "[No Variations]"
+Added Component: Designator=L1(SPM10065VT-220M-D)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SPM10065VT-470M-D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(PowerDI5060-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DMP6050SPS-13"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(PowerDI5060-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DMP6050SPS-13"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SSM3J338R,LF-SOT23-F)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_5931)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-23-5)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA180A4IDBVT"; VariantName = "[No Variations]"
+Added Component: Designator=U2(QFN-24-0MM5)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://www.lcsc.com/product-detail/USB-ICs_Cypress-Semicon-CYPD3177-24LQXQ_C2959321.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cypress Semicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CYPD3177-24LQXQ"; VariantName = "[No Variations]"
+Added Component: Designator=U3(TSOT23-8)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://www.lcsc.com/product-detail/DC-DC-Converters_Silergy-Corp-SY8303AIC_C97054.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C97054"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Silergy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SY8303AIC"; VariantName = "[No Variations]"
+Added Component: Designator=X1(XTAL_2520)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3_MCU Pin=C5-2
+Added Pin To Net: NetName=+3V3_MCU Pin=C13-1
+Added Pin To Net: NetName=+3V3_MCU Pin=C14-1
+Added Pin To Net: NetName=+3V3_MCU Pin=C15-1
+Added Pin To Net: NetName=+3V3_MCU Pin=C19-2
+Added Pin To Net: NetName=+3V3_MCU Pin=C20-1
+Added Pin To Net: NetName=+3V3_MCU Pin=C21-1
+Added Pin To Net: NetName=+3V3_MCU Pin=C23-1
+Added Pin To Net: NetName=+3V3_MCU Pin=C26-1
+Added Pin To Net: NetName=+3V3_MCU Pin=C27-1
+Added Pin To Net: NetName=+3V3_MCU Pin=C28-1
+Added Pin To Net: NetName=+3V3_MCU Pin=D1-A
+Added Pin To Net: NetName=+3V3_MCU Pin=IC1-1
+Added Pin To Net: NetName=+3V3_MCU Pin=IC1-13
+Added Pin To Net: NetName=+3V3_MCU Pin=IC1-19
+Added Pin To Net: NetName=+3V3_MCU Pin=IC1-32
+Added Pin To Net: NetName=+3V3_MCU Pin=IC1-48
+Added Pin To Net: NetName=+3V3_MCU Pin=IC1-64
+Added Pin To Net: NetName=+3V3_MCU Pin=J3-1
+Added Pin To Net: NetName=+3V3_MCU Pin=L1-2
+Added Pin To Net: NetName=+3V3_MCU Pin=R10-1
+Added Pin To Net: NetName=+3V3_MCU Pin=R11-1
+Added Pin To Net: NetName=+3V3_MCU Pin=R12-1
+Added Pin To Net: NetName=+3V3_MCU Pin=R13-1
+Added Pin To Net: NetName=+3V3_MCU Pin=R15-2
+Added Pin To Net: NetName=+3V3_MCU Pin=R18-2
+Added Pin To Net: NetName=+3V3_MCU Pin=R20-2
+Added Pin To Net: NetName=+3V3_MCU Pin=R23-2
+Added Pin To Net: NetName=+3V3_MCU Pin=R26-2
+Added Pin To Net: NetName=+3V3_MCU Pin=R27-2
+Added Pin To Net: NetName=+3V3_MCU Pin=U1-5
+Added Net: Name=+3V3_MCU
+Added Pin To Net: NetName=+3V3 Pin=C9-2
+Added Pin To Net: NetName=+3V3 Pin=C10-2
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=+3V3 Pin=U2-23
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+VBUS_PD Pin=C2-2
+Added Pin To Net: NetName=+VBUS_PD Pin=Q2-1
+Added Pin To Net: NetName=+VBUS_PD Pin=R1-2
+Added Pin To Net: NetName=+VBUS_PD Pin=U1-3
+Added Pin To Net: NetName=+VBUS_PD Pin=U2-11
+Added Net: Name=+VBUS_PD
+Added Pin To Net: NetName=+VBUS Pin=C1-2
+Added Pin To Net: NetName=+VBUS Pin=C7-2
+Added Pin To Net: NetName=+VBUS Pin=C8-2
+Added Pin To Net: NetName=+VBUS Pin=C25-2
+Added Pin To Net: NetName=+VBUS Pin=J2-A4B9
+Added Pin To Net: NetName=+VBUS Pin=J2-B4A9
+Added Pin To Net: NetName=+VBUS Pin=Q1-1
+Added Pin To Net: NetName=+VBUS Pin=R2-2
+Added Pin To Net: NetName=+VBUS Pin=R25-1
+Added Pin To Net: NetName=+VBUS Pin=U2-18
+Added Pin To Net: NetName=+VBUS Pin=U3-5
+Added Net: Name=+VBUS
+Added Pin To Net: NetName=+VCONN Pin=C3-2
+Added Pin To Net: NetName=+VCONN Pin=J1-1
+Added Pin To Net: NetName=+VCONN Pin=R1-1
+Added Pin To Net: NetName=+VCONN Pin=R3-1
+Added Pin To Net: NetName=+VCONN Pin=R4-1
+Added Pin To Net: NetName=+VCONN Pin=U1-4
+Added Net: Name=+VCONN
+Added Pin To Net: NetName=ADC_IN1 Pin=C4-1
+Added Pin To Net: NetName=ADC_IN1 Pin=IC1-15
+Added Pin To Net: NetName=ADC_IN1 Pin=R3-2
+Added Pin To Net: NetName=ADC_IN1 Pin=R4-2
+Added Pin To Net: NetName=ADC_IN1 Pin=R5-1
+Added Net: Name=ADC_IN1
+Added Pin To Net: NetName=ADC_IN2 Pin=C12-1
+Added Pin To Net: NetName=ADC_IN2 Pin=IC1-16
+Added Pin To Net: NetName=ADC_IN2 Pin=R8-1
+Added Net: Name=ADC_IN2
+Added Pin To Net: NetName=BS Pin=C24-1
+Added Pin To Net: NetName=BS Pin=U3-7
+Added Net: Name=BS
+Added Pin To Net: NetName=BUCK_EN_R Pin=R28-2
+Added Pin To Net: NetName=BUCK_EN_R Pin=R30-1
+Added Net: Name=BUCK_EN_R
+Added Pin To Net: NetName=BUCK_EN Pin=R25-2
+Added Pin To Net: NetName=BUCK_EN Pin=U3-8
+Added Net: Name=BUCK_EN
+Added Pin To Net: NetName=Fb Pin=C28-2
+Added Pin To Net: NetName=Fb Pin=R26-1
+Added Pin To Net: NetName=Fb Pin=R27-1
+Added Pin To Net: NetName=Fb Pin=R29-1
+Added Pin To Net: NetName=Fb Pin=U3-1
+Added Net: Name=Fb
+Added Pin To Net: NetName=Fs Pin=R28-1
+Added Pin To Net: NetName=Fs Pin=U3-2
+Added Net: Name=Fs
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=GND Pin=IC1-47
+Added Pin To Net: NetName=GND Pin=IC1-63
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-A1B12
+Added Pin To Net: NetName=GND Pin=J2-B1A12
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=HSEIN Pin=C16-1
+Added Pin To Net: NetName=HSEIN Pin=IC1-5
+Added Pin To Net: NetName=HSEIN Pin=X1-1
+Added Net: Name=HSEIN
+Added Pin To Net: NetName=HSEOUT Pin=C17-1
+Added Pin To Net: NetName=HSEOUT Pin=IC1-6
+Added Pin To Net: NetName=HSEOUT Pin=X1-3
+Added Net: Name=HSEOUT
+Added Pin To Net: NetName=I2C3_SCL Pin=IC1-41
+Added Pin To Net: NetName=I2C3_SCL Pin=R12-2
+Added Pin To Net: NetName=I2C3_SCL Pin=U2-13
+Added Net: Name=I2C3_SCL
+Added Pin To Net: NetName=I2C3_SDA Pin=IC1-40
+Added Pin To Net: NetName=I2C3_SDA Pin=R11-2
+Added Pin To Net: NetName=I2C3_SDA Pin=U2-12
+Added Net: Name=I2C3_SDA
+Added Pin To Net: NetName=ISINK_FINE Pin=R23-1
+Added Pin To Net: NetName=ISINK_FINE Pin=R24-2
+Added Pin To Net: NetName=ISINK_FINE Pin=U2-6
+Added Net: Name=ISINK_FINE
+Added Pin To Net: NetName=ISNK_COARSE Pin=R20-1
+Added Pin To Net: NetName=ISNK_COARSE Pin=R22-2
+Added Pin To Net: NetName=ISNK_COARSE Pin=U2-5
+Added Net: Name=ISNK_COARSE
+Added Pin To Net: NetName=LED_A Pin=D2-A
+Added Pin To Net: NetName=LED_A Pin=IC1-26
+Added Net: Name=LED_A
+Added Pin To Net: NetName=LED_K Pin=D2-K
+Added Pin To Net: NetName=LED_K Pin=R21-1
+Added Net: Name=LED_K
+Added Pin To Net: NetName=Lx Pin=C24-2
+Added Pin To Net: NetName=Lx Pin=L1-1
+Added Pin To Net: NetName=Lx Pin=U3-6
+Added Net: Name=Lx
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R14-1
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetJ2_A5 Pin=J2-A5
+Added Pin To Net: NetName=NetJ2_A5 Pin=U2-15
+Added Net: Name=NetJ2_A5
+Added Pin To Net: NetName=NetJ2_B5 Pin=J2-B5
+Added Pin To Net: NetName=NetJ2_B5 Pin=U2-14
+Added Net: Name=NetJ2_B5
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ3_D Pin=Q3-D
+Added Pin To Net: NetName=NetQ3_D Pin=R14-2
+Added Net: Name=NetQ3_D
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U1-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NRST Pin=C18-1
+Added Pin To Net: NetName=NRST Pin=IC1-7
+Added Pin To Net: NetName=NRST Pin=J3-3
+Added Net: Name=NRST
+Added Pin To Net: NetName=PD_FAULT Pin=IC1-43
+Added Pin To Net: NetName=PD_FAULT Pin=Q3-G
+Added Pin To Net: NetName=PD_FAULT Pin=R17-2
+Added Pin To Net: NetName=PD_FAULT Pin=U2-9
+Added Net: Name=PD_FAULT
+Added Pin To Net: NetName=PD_FLIP Pin=IC1-42
+Added Pin To Net: NetName=PD_FLIP Pin=R10-2
+Added Pin To Net: NetName=PD_FLIP Pin=U2-10
+Added Net: Name=PD_FLIP
+Added Pin To Net: NetName=PD_GPIO Pin=IC1-50
+Added Pin To Net: NetName=PD_GPIO Pin=U2-8
+Added Net: Name=PD_GPIO
+Added Pin To Net: NetName=PD_INT Pin=IC1-52
+Added Pin To Net: NetName=PD_INT Pin=R13-2
+Added Pin To Net: NetName=PD_INT Pin=U2-7
+Added Net: Name=PD_INT
+Added Pin To Net: NetName=PD_SAFE_R Pin=R9-2
+Added Pin To Net: NetName=PD_SAFE_R Pin=U2-4
+Added Net: Name=PD_SAFE_R
+Added Pin To Net: NetName=PD_SAFE Pin=IC1-53
+Added Pin To Net: NetName=PD_SAFE Pin=R9-1
+Added Net: Name=PD_SAFE
+Added Pin To Net: NetName=PDC_VCCD Pin=C6-2
+Added Pin To Net: NetName=PDC_VCCD Pin=U2-24
+Added Net: Name=PDC_VCCD
+Added Pin To Net: NetName=SWCLK Pin=IC1-49
+Added Pin To Net: NetName=SWCLK Pin=J3-4
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=IC1-46
+Added Pin To Net: NetName=SWDIO Pin=J3-2
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=IC1-55
+Added Pin To Net: NetName=SWO Pin=J3-6
+Added Net: Name=SWO
+Added Pin To Net: NetName=USB_D_N Pin=IC1-44
+Added Pin To Net: NetName=USB_D_N Pin=J2-A7
+Added Pin To Net: NetName=USB_D_N Pin=J2-B7
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=IC1-45
+Added Pin To Net: NetName=USB_D_P Pin=J2-A6
+Added Pin To Net: NetName=USB_D_P Pin=J2-B6
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=VBUS_FET_EN Pin=R7-1
+Added Pin To Net: NetName=VBUS_FET_EN Pin=U2-3
+Added Net: Name=VBUS_FET_EN
+Added Pin To Net: NetName=VBUS_FET_GATE_Divider Pin=C1-1
+Added Pin To Net: NetName=VBUS_FET_GATE_Divider Pin=C2-1
+Added Pin To Net: NetName=VBUS_FET_GATE_Divider Pin=R2-1
+Added Pin To Net: NetName=VBUS_FET_GATE_Divider Pin=R6-1
+Added Pin To Net: NetName=VBUS_FET_GATE_Divider Pin=R7-2
+Added Net: Name=VBUS_FET_GATE_Divider
+Added Pin To Net: NetName=VBUS_FET_GATE Pin=Q1-2
+Added Pin To Net: NetName=VBUS_FET_GATE Pin=Q2-2
+Added Pin To Net: NetName=VBUS_FET_GATE Pin=R6-2
+Added Net: Name=VBUS_FET_GATE
+Added Pin To Net: NetName=VBUS_MAX Pin=R15-1
+Added Pin To Net: NetName=VBUS_MAX Pin=R16-2
+Added Pin To Net: NetName=VBUS_MAX Pin=U2-2
+Added Net: Name=VBUS_MAX
+Added Pin To Net: NetName=VBUS_MIN Pin=R18-1
+Added Pin To Net: NetName=VBUS_MIN Pin=R19-2
+Added Pin To Net: NetName=VBUS_MIN Pin=U2-1
+Added Net: Name=VBUS_MIN
+Added Pin To Net: NetName=VCAP Pin=C22-2
+Added Pin To Net: NetName=VCAP Pin=IC1-30
+Added Net: Name=VCAP
+Added Class: Name=USB-C Power Delivery Board
+Added Differential Pair: Name=USB_D
+Added Room: Name=USB-C Power Delivery Board
